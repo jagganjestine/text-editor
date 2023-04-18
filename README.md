@@ -14,7 +14,7 @@ The Simple Text Editor application includes the following features:
 
   4. Exit the application: Users can close the application by selecting the "Exit" option in the "File" menu or by clicking the close button on the application window.
 
-Implementation Details
+# Implementation
 The Simple Text Editor is built using Java and the Swing library for its graphical user interface. It extends the JFrame class and implements the ActionListener interface to handle user interactions.
 
 The application's GUI consists of a JTextArea, a JScrollPane, a JMenuBar, a JMenu, and three JMenuItems (open, save, and exit). The JTextArea is used for text editing, while the JScrollPane provides scrolling functionality. The JMenuBar, JMenu, and JMenuItems create the menu structure that allows users to access the different features of the text editor.
