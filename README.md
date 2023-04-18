@@ -6,13 +6,13 @@ This project is a basic text editor created using Java and the Swing library. Th
 ## Features
 The Simple Text Editor application includes the following features:
 
-Create and edit text: The text editor provides a JTextArea where users can write and edit text as they would in any other text editor.
+  1. Create and edit text: The text editor provides a JTextArea where users can write and edit text as they would in any other text editor.
 
-Open existing files: Users can open existing text files from their local file system by selecting the "Open" option in the "File" menu. The contents of the selected file will be displayed in the text area for editing.
+  2. Open existing files: Users can open existing text files from their local file system by selecting the "Open" option in the "File" menu. The contents of the selected file will be displayed in the text area for editing.
 
-Save files: Users can save the contents of the text area to a new or existing file by selecting the "Save" option in the "File" menu. A file dialog will appear, allowing users to choose the desired file location and name.
+  3. Save files: Users can save the contents of the text area to a new or existing file by selecting the "Save" option in the "File" menu. A file dialog will appear, allowing users to choose the desired file location and name.
 
-Exit the application: Users can close the application by selecting the "Exit" option in the "File" menu or by clicking the close button on the application window.
+  4. Exit the application: Users can close the application by selecting the "Exit" option in the "File" menu or by clicking the close button on the application window.
 
 Implementation Details
 The Simple Text Editor is built using Java and the Swing library for its graphical user interface. It extends the JFrame class and implements the ActionListener interface to handle user interactions.
